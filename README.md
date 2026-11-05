@@ -1,0 +1,3 @@
+In this Python assignment, we develop a Tuition Center Management System. The tuition center is named 'Brilliant Sport-Training Centre'(BSTC). 
+This system is designed to manage trainees' information and the various sports training programs offered by BSTC. The goal is to streamline administrative tasks and enhance overall efficiency. Not only that, customers don't need to register physically, they can do it online and choose the sports they want. 
+Besides that, the system can arrange time reasonably and avoid scheduling conflicts. Trainees also can choose their training items via the system. The purpose of the system is to systematize this project so that I can increase work efficiency. 
